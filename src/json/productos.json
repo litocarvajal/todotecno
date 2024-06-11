@@ -1,56 +1,101 @@
 [
     {
         "id": 1,
-        "imageUrl": "https://acdn.mitiendanube.com/stores/001/070/304/products/29-shiri1-40fbbcc69e737b62ec16068395338473-1024-1024.webp",
-        "name": "Jabones Naturales",
-        "category": "linea_piel",
-        "description": "Beneficios y propiedades: Nuestros jabones naturales están hechos con glicerina vegetal, aceite de coco y aceites esenciales.",
-        "price": 3870,
-        "stock": 10
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/05/02/21/50/home-office-336373_1280.jpg",
+        "name": "Laptop XYZ",
+        "category": "computadoras",
+        "description": "Potente laptop con procesador Intel Core i7, 16GB de RAM y 512GB SSD.",
+        "price": 150000,
+        "stock": 5
+    },
+    {
+        "id": 7,
+        "imageUrl": "https://cdn.pixabay.com/photo/2015/01/21/14/14/apple-606761_1280.jpg",
+        "name": "PC Gaming Alpha",
+        "category": "computadoras",
+        "description": "PC de escritorio para juegos con GPU NVIDIA RTX 3080, 32GB de RAM y 1TB SSD.",
+        "price": 250000,
+        "stock": 3
     },
     {
         "id": 2,
-        "imageUrl": "https://acdn.mitiendanube.com/stores/001/070/304/products/42-agua-de-rosas1-27ae6b7b1df9a093fa16914552059263-1024-1024.webp",
-        "name": "Agua de Rosas",
-        "category": "linea_piel",
-        "description": "Beneficios: El agua de rosas es un componente esencial que equilibra el pH de la piel, reduciendo la inflamación y el enrojecimiento.",
-        "price": 7350,
-        "stock": 8
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/09/16/19/17/mobile-2759896_1280.jpg",
+        "name": "Smartphone ABC",
+        "category": "celulares",
+        "description": "Smartphone con pantalla AMOLED de 6.5 pulgadas, cámara de 48MP y batería de 4000mAh.",
+        "price": 80000,
+        "stock": 12
     },
     {
-        "id": 3,
-        "imageUrl": "https://acdn.mitiendanube.com/stores/001/070/304/products/9-shampoo21-a3bd857c2a07f8434f16914537043259-1024-1024.webp",
-        "name": "Shampoo Solido - Cabello Neutro",
-        "category": "linea_capilar",
-        "description": "Beneficios: El shampoo ofrece una limpieza efectiva y espumosa. Gracias a sus ingredientes, logra humectar, nutrir, hidratar y estimular el crecimiento del cabello, protegiendo el equilibrio del cuero cabelludo, lo que resulta en un cabello saludable, natural y brillante.",
-        "price": 9920,
-        "stock": 9
-    },
-    {
-        "id": 4,
-        "imageUrl": "https://acdn.mitiendanube.com/stores/001/070/304/products/shiri-natural-junio-41-cdbc207090b8b48db716939169616657-1024-1024.webp",
-        "name": "Acondicionador Solido",
-        "category": "linea_capilar",
-        "description": "Beneficios: El acondicionador es un producto capilar diseñado para proporcionar hidratación y nutrición al cabello, dejándolo suave, manejable y desenredado. Gracias a sus ingredientes como mantecas vegetales, extractos de plantas y aceites esenciales, el acondicionador promueve un cabello saludable y suave, ayudando a recuperar su brillo y aspecto natural.",
-        "price": 11460,
+        "id": 8,
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/12/29/13/49/smartphone-583639_1280.jpg",
+        "name": "Smartphone Pro Max",
+        "category": "celulares",
+        "description": "Teléfono de alta gama con pantalla de 6.7 pulgadas, cámara de 108MP y batería de 5000mAh.",
+        "price": 120000,
         "stock": 7
     },
     {
+        "id": 3,
+        "imageUrl": "https://cdn.pixabay.com/photo/2015/02/02/11/09/tablet-620647_1280.jpg",
+        "name": "Tablet 123",
+        "category": "tablets",
+        "description": "Tablet con pantalla de 10 pulgadas, 4GB de RAM y 64GB de almacenamiento.",
+        "price": 45000,
+        "stock": 8
+    },
+    {
+        "id": 9,
+        "imageUrl": "https://cdn.pixabay.com/photo/2017/01/22/19/37/tablet-2003429_1280.jpg",
+        "name": "Tablet Pro",
+        "category": "tablets",
+        "description": "Tablet profesional con pantalla de 12.9 pulgadas, 6GB de RAM y 256GB de almacenamiento.",
+        "price": 85000,
+        "stock": 4
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/11/29/02/51/smart-watch-1869928_1280.jpg",
+        "name": "Smartwatch DEF",
+        "category": "accesorios",
+        "description": "Reloj inteligente con monitor de ritmo cardíaco, GPS y resistencia al agua.",
+        "price": 20000,
+        "stock": 15
+    },
+    {
         "id": 5,
-        "imageUrl": "https://acdn.mitiendanube.com/stores/001/070/304/products/116-almohadillas1-d03f7edcfe650d4a2016914785609986-1024-1024.webp",
-        "name": "Almohadilla de Calor o Frio",
-        "category": "linea_aromaterapia",
-        "description": "Beneficios: Almohadillas rellenas de semillas de lavanda, que ayudan a relajar, calmar y conciliar el sueño. La Almohadilla tiene la capacidad de mantener el calor o el frío, según se prefiera.",
-        "price": 11590,
-        "stock": 10
+        "imageUrl": "https://cdn.pixabay.com/photo/2018/01/26/18/40/headphones-3105927_1280.jpg",
+        "name": "Auriculares Bluetooth",
+        "category": "accesorios",
+        "description": "Auriculares inalámbricos con cancelación de ruido y hasta 20 horas de batería.",
+        "price": 12000,
+        "stock": 20
+    },
+    {
+        "id": 10,
+        "imageUrl": "https://cdn.pixabay.com/photo/2018/03/20/19/01/fitness-3245650_1280.jpg",
+        "name": "Pulsera Fitness",
+        "category": "accesorios",
+        "description": "Pulsera de actividad física con monitor de sueño, contador de pasos y resistencia al agua.",
+        "price": 5000,
+        "stock": 30
     },
     {
         "id": 6,
-        "imageUrl": "https://acdn.mitiendanube.com/stores/001/070/304/products/117-velas1-85be92322c64b2ed3316914798072336-1024-1024.webp",
-        "name": "Velas Aromáticas de Cera de Soja",
-        "category": "linea_aromaterapia",
-        "description": "Beneficios: Elaboradas con cera de soja para su mayor durabilidad. En frascos reutilizados.",
-        "price": 19340,
-        "stock": 8
+        "imageUrl": "https://cdn.pixabay.com/photo/2016/12/28/09/37/tv-1933090_1280.jpg",
+        "name": "Smart TV 4K",
+        "category": "televisores",
+        "description": "Televisor inteligente 4K de 55 pulgadas con HDR y aplicaciones integradas.",
+        "price": 90000,
+        "stock": 6
+    },
+    {
+        "id": 11,
+        "imageUrl": "https://cdn.pixabay.com/photo/2018/11/14/22/17/monitor-3811290_1280.jpg",
+        "name": "Televisor OLED",
+        "category": "televisores",
+        "description": "Televisor OLED de 65 pulgadas con negros profundos y colores vibrantes.",
+        "price": 180000,
+        "stock": 4
     }
 ]
