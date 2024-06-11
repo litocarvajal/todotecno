@@ -7,7 +7,7 @@ function NavBar() {
       <div className="row my-3">
         <div className="col text-center">
           <Link to={"/"}>
-            <img src="https://acdn.mitiendanube.com/stores/001/070/304/themes/common/logo-256865518-1659190912-fd89c452a45cd9441d9e929b2d7616cc1659190912-320-0.webp" alt="Jabones Naturales" width={160} />
+            <img src="../src/img/todotec.jpg" alt="Jabones Naturales" width={160} />
           </Link>
         </div>
       </div>
