@@ -27,6 +27,9 @@ function NavBar() {
             <li className="nav-item">
               <NavLink className="nav-link text-secondary" to={"/category/computadoras"}>Computadoras</NavLink>
             </li>
+            <li className="nav-item">
+              <NavLink className="nav-link text-secondary" to={"/category/accesorios"}>Accesorios</NavLink>
+            </li>
           </ul>
         </div>
         <div className="col text-end">
