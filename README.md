@@ -5,4 +5,4 @@
 Este proyecto fue realizado con **VITE** + **React JS** + **Bootstrap**
 > Tienda Online Todotecnologías
 
-<img src="../src/img/portada.jpg" width="100%" />
+<img src="../src/img/portada.png" width="100%" />
